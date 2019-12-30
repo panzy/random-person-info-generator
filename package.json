@@ -1,0 +1,11 @@
+{
+  "name": "random-person-info-generator",
+  "version": "1.0.0",
+  "description": "Generate fake data for test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pan.zhiyong@grandlynn.com",
+  "license": "ISC"
+}
